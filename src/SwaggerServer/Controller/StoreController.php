@@ -36,7 +36,7 @@ use Symfony\Component\HttpKernel\Exception\HttpException;
 use Swagger\Server\Api\StoreApiInterface;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 use Swagger\Server\Model\Order;
-use maparray&lt;string,int&gt;;
+// use maparray&lt;string,int&gt;;
 use Symfony\Component\HttpKernel\Exception\BadRequestHttpException;
 
 /**

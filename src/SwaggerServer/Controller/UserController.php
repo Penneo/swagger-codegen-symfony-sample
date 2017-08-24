@@ -34,7 +34,7 @@ use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpKernel\Exception\HttpException;
 use Swagger\Server\Api\UserApiInterface;
-use Swagger\Server\Model\User[];
+// use Swagger\Server\Model\User[];
 use string;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 use Swagger\Server\Model\User;

@@ -38,7 +38,7 @@ use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 use Swagger\Server\Model\Pet;
 use Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException;
 use Swagger\Server\Model\ApiResponse;
-use string[];
+// use string[];
 use Symfony\Component\HttpKernel\Exception\BadRequestHttpException;
 
 /**
