@@ -1,4 +1,7 @@
-petstore
-========
+# A sample project using "Swagger Code Generation" for Symfony
 
-A Symfony project created on August 24, 2017, 11:29 am.
+## Create a new Symfony project
+
+```
+symfony new petstore 2.7
+```
